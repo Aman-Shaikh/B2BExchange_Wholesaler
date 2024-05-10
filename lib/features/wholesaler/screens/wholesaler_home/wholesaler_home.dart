@@ -1,6 +1,5 @@
 import 'package:b2b_exchange_development_version/constants/image_strings.dart';
 import 'package:b2b_exchange_development_version/features/wholesaler/controllers/home_controller.dart';
-import 'package:b2b_exchange_development_version/features/wholesaler/screens/wholesaler_home/temp.dart';
 import 'package:b2b_exchange_development_version/features/wholesaler/screens/wholesaler_home/wholesaler_home_screen.dart';
 import 'package:b2b_exchange_development_version/features/wholesaler/screens/wholesaler_orders/wholesaler_orders_screen.dart';
 import 'package:b2b_exchange_development_version/features/wholesaler/screens/wholesaler_products/wholesaler_products_screen.dart';

@@ -1,5 +1,4 @@
 import 'package:b2b_exchange_development_version/features/wholesaler/models/wholesaler_model.dart';
-import 'package:b2b_exchange_development_version/repository/authentication_repository/authentication_repository.dart';
 import 'package:b2b_exchange_development_version/repository/authentication_repository/wholesaler_authentication_repository.dart';
 import 'package:b2b_exchange_development_version/repository/user_repository/wholesaler_repository.dart';
 import 'package:firebase_auth/firebase_auth.dart';
@@ -53,7 +52,7 @@ class WSignUpController extends GetxController {
 
   // Get phoneNo from wholesaler and pass it to Auth Repository for firebase Authentication
   void phoneAuthentication(String phoneNo) {
-    AuthenticationRepository.instance.phoneAuthentication(phoneNo);
+    WAuthenticationRepository.instance.wPhoneAuthentication(phoneNo);
   }
 
   //creating wholesaler storing wholesalers data in database

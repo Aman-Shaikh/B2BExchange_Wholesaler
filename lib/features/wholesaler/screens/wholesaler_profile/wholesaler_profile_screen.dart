@@ -76,9 +76,9 @@ class WholesalerProfileScreen extends StatelessWidget {
                         ),
                         const SizedBox(height: 10),
                         Text(fullName.text,
-                            style: Theme.of(context).textTheme.headline4),
+                            style: Theme.of(context).textTheme.headlineMedium),
                         Text(email.value.text,
-                            style: Theme.of(context).textTheme.bodyText2),
+                            style: Theme.of(context).textTheme.bodyMedium),
                         const SizedBox(height: 28),
                         SizedBox(
                           width: 200,

@@ -31,9 +31,9 @@ class WelcomeScreen extends StatelessWidget {
             Column(
               children: [
                 Text(myWelcomeTitle,
-                    style: Theme.of(context).textTheme.headline3),
+                    style: Theme.of(context).textTheme.displaySmall),
                 Text(myWelcomeSubTitle,
-                    style: Theme.of(context).textTheme.bodyText1,
+                    style: Theme.of(context).textTheme.bodyLarge,
                     textAlign: TextAlign.center),
               ],
             ),

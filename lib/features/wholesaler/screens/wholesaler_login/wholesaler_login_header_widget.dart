@@ -15,8 +15,8 @@ class WLoginHeaderWidget extends StatelessWidget {
         Image(
             image: const AssetImage(myShopingBasketWithPhone),
             height: size.height * 0.2),
-        Text(myLoginTitle, style: Theme.of(context).textTheme.headline3),
-        Text(myLoginSubTitle, style: Theme.of(context).textTheme.bodyText1),
+        Text(myLoginTitle, style: Theme.of(context).textTheme.displaySmall),
+        Text(myLoginSubTitle, style: Theme.of(context).textTheme.bodyLarge),
       ],
     );
   }

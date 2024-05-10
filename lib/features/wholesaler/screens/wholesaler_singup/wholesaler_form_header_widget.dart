@@ -34,7 +34,7 @@ class WFormHeaderWidget extends StatelessWidget {
             color: imageColor,
             height: size.height * imageHeight),
         SizedBox(height: heightBetween),
-        Text(title, style: Theme.of(context).textTheme.headline3),
+        Text(title, style: Theme.of(context).textTheme.displaySmall),
         Text(subTitle,
             textAlign: textAlign, style: Theme.of(context).textTheme.bodyText1),
       ],

@@ -27,7 +27,7 @@ dependencies:
   line_awesome_flutter: ^2.0.0
 
   ## -- FONTS PACKAGES
-  google_fonts: ^3.0.1
+  google_fonts: ^6.2.1
 
   ## -- OTP TEXT FIELD PACKAGES
   flutter_otp_text_field: ^1.1.1
@@ -47,34 +47,4 @@ flutter:
   assets:
     - assets/images/
     - assets/logo/
-    - lib/features/wholesaler/models/category_model.json
-  
-  
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+    - lib/features/wholesaler/models/
