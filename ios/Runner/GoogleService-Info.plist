@@ -2,22 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CLIENT_ID</key>
-	<string>208263614673-vheaec0v50nt3v9f6dali65nsiffvcu9.apps.googleusercontent.com</string>
-	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.208263614673-vheaec0v50nt3v9f6dali65nsiffvcu9</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDJ-0y03LIepOUB_6_7U-_6lyQ3_UYIGvY</string>
+	<string>AIzaSyCqiEDUCT-7Bjfek7h40AfxKC7IvKBnjuc</string>
 	<key>GCM_SENDER_ID</key>
-	<string>208263614673</string>
+	<string>473335042909</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.b2bExchangeDevelopmentVersion</string>
 	<key>PROJECT_ID</key>
-	<string>b2b-exchange</string>
+	<string>b2bexchange-8d5f2</string>
 	<key>STORAGE_BUCKET</key>
-	<string>b2b-exchange.appspot.com</string>
+	<string>b2bexchange-8d5f2.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:208263614673:ios:21ca0f139fa96ec824f5f0</string>
+	<string>1:473335042909:ios:8b32a62f94f641dbcd8eb4</string>
 </dict>
 </plist>

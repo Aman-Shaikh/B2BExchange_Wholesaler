@@ -109,7 +109,7 @@ class WholesalerHomeScreen extends StatelessWidget {
                                   count: "${average}",
                                   logo: myStar),
                               WHSButtonWidget(
-                                  title: "Total Sales",
+                                  title: "Sales",
                                   count: "${totalSales}",
                                   logo: myShopingBasket),
                             ],

@@ -27,7 +27,7 @@ class WholesalerProductsScreen extends StatelessWidget {
             Get.to(() => const WAddProduct());
           },
           backgroundColor: purpleColor,
-          child: Icon(Icons.add),
+          child: Icon(Icons.add,color: Colors.white,),
         ),
         appBar: WAppBarWidget("Wholesaler Products"),
         body: StreamBuilder(

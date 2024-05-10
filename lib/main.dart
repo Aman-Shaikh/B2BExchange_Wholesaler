@@ -1,11 +1,12 @@
 import 'package:b2b_exchange_development_version/features/entry_point/screens/splash_screen/splash_screen.dart';
-import 'package:b2b_exchange_development_version/firebase_options.dart';
 import 'package:b2b_exchange_development_version/repository/authentication_repository/wholesaler_authentication_repository.dart';
 import 'package:b2b_exchange_development_version/utils/theme/theme.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
+
+import 'firebase_options.dart';
 
 
 void main() {
