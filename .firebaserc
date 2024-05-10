@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "b2bexchange-de1d7"
+  },
+  "dataconnectEmulatorConfig": {
+    "postgres": {
+      "localConnectionString": {
+        "localConnectionString": "postgresql://localhost:5432"
+      }
+    }
+  }
+}
